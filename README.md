@@ -1,2 +1,2 @@
-# food_delivery
-Simple food delivery system to try multiple architectures
+# Simple food delivery
+Explonatorial system to try multiple architectures to same requirements
